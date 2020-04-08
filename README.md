@@ -13,7 +13,7 @@ Succed cases see `dependencies.txt`.
 First `cd` to the project directory right after you cloned it, then run
 
 ```
-./testrun.sh
+./makecerts.sh
 ```
 
 ## More
