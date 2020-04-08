@@ -1,0 +1,11 @@
+[ req ]
+distinguished_name	= req_distinguished_name
+
+[ req_distinguished_name ]
+countryName	= CN
+stateOrProvinceName	= Beijing
+localityName = Beijing
+0.organizationName = Internet Company (Beijing Section)
+organizationalUnitName = I.T. Department
+commonName = yoursite.com
+emailAddress = admin@yoursite.com

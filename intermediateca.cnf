@@ -1,0 +1,11 @@
+[ req ]
+distinguished_name	= req_distinguished_name
+
+[ req_distinguished_name ]
+countryName	= CN
+stateOrProvinceName	= Beijing
+localityName = Beijing
+0.organizationName = Super Powerful Intermediate CA
+organizationalUnitName = I.T. Department
+commonName = Super Powerful Intermediate CA
+emailAddress = admin@y.com
